@@ -8,6 +8,8 @@ In my professional journey, I embarked on a transformative research internship a
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+
+
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
@@ -23,6 +25,18 @@ This is a repository to showcase skills, share projects and track my progress in
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
+### Hospitality Project
+**Code:** [`Hospitality Project`](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi)
+
+**Goal:** AtliQ Grands seeks to revive market share and revenue in luxury/business hotels by leveraging data analytics for strategic insights. They've enlisted a third-party service for analyzing historical data amid declining performance and competition.
+
+**Description:** Guided by industry experts, the project addressed challenges of declining market share and revenue in luxury hotels. My role was crucial in providing strategic insights to Atliq Grands' Revenue Team
+
+**Skills:** data cleaning, data analysis,,Data Modelling and data visualization
+
+**Technology:** Power Bi (Business Intelligence Tool),Power Query Editor,DAX Language
+
+**Results:** Mumbai leads in revenue at 669M, followed by Bangalore, Hyderabad, and Delhi. AtliQ Exotica excels with 320M revenue, a 3.62 rating, 57% occupancy, and a 24.4% cancellation rate. Week 24 records the highest revenue at 139.6M. Delhi dominates in both occupancy and rating, while AtliQ faces a substantial 298M loss due to cancellations. Elite rooms, though highly booked, experience a higher cancellation rate.
 
 
 
