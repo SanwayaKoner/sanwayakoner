@@ -64,7 +64,7 @@ Demonstrating skills is most effectively achieved through practical application 
 [<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 [Gmail]: sanwayakoner@gmail.com
-[linkedin]: https://www.linkedin.com/in/arushimarwaha/
+[linkedin]: https://in.linkedin.com/in/sanwayakoner
 
 <!--
 **SanwayaKoner/sanwayakoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
