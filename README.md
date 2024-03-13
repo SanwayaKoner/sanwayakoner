@@ -34,13 +34,6 @@ This is a repository to showcase skills, share projects and track my progress in
 <i>Bachelor's degree- BSc Mathematics(Hons.) </i> ~
 (August 2018 - July 2021)
 
-## Certificates
-
-Demonstrating skills is most effectively achieved through practical application and sharing the work you've done. Certificates, at times, serve as an indirect reflection of these accomplishments. Below is a list of the certifications I hold, presented in chronological order, along with their respective completion dates.:
-- [Data Analysis with Python ](https://freecodecamp.org/certification/arushimarwaha/data-analysis-with-python-v7) (March 202) (Freecodecamp)
-- [Intermediate SQL](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Jan 202) (DataCamp)
-- [Understanding Data Visualization ](https://www.datacamp.com/statement-of-accomplishment/course/37739c9fe2bc7c1831dbf777e654bf4ffba101a5?share=true) (Dec 2022) (Datacamp)
-- [Intermediate python ](https://www.datacamp.com/statement-of-accomplishment/course/bb2735995275bc88b8128af49184548e7351bab7?share=true) (Oct 2022) (Datacamp)
 
 <h2> Connect with me:</h2>
 
