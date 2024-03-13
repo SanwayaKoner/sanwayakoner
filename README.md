@@ -8,25 +8,9 @@ In my professional journey, I embarked on a transformative research internship a
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-
-
-## Table of Contents
-- [About]
-- [Portfolio Projects](ht
-  - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.cio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://giata-Analysis-Portfolio#tech-store-sales-analysis)  
-  - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Datis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparralysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/na.parris)
-  - Power BI
   
 ### Hospitality Project
-**Code:** [`Hospitality Project`](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi)
+**Code:** [`Hospitality Project`](https://github.com/SanwayaKoner/AtliQ-Hospitality-Project)
 
 **Goal:** AtliQ Grands seeks to revive market share and revenue in luxury/business hotels by leveraging data analytics for strategic insights. They've enlisted a third-party service for analyzing historical data amid declining performance and competition.
 
